@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">YaTranslate</string>
+
+    <string name="translated_by_yandex_text">«Переведено сервисом «Яндекс.Переводчик»</string>
+    <string name="translated_by_yandex_url">http://translate.yandex.ru/</string>
+    <string name="select_language_title">Выберете язык</string>
+    <string name="yandex_translate_url">https://translate.yandex.net/api/v1.5/tr.json/translate</string>
+    <string name="yandex_get_lang_url">https://translate.yandex.net/api/v1.5/tr.json/getLangs</string>
+    <string name="api_key">trnsl.1.1.20170327T195013Z.467deb7564ebb1e5.87f7842f00354a220893d6b48704674774d7f3ce</string>
+    <string name="translate_direction_is_not_valid">Заданное направление перевода не поддерживается</string>
+    <string name="response_json_error">Sorry, translation error</string>
+    <string name="volley_translation_error">Ошибка соединения</string>
+    <string name="volley_translation_error_app_key_invalid">Не правильный API-ключ</string>
+    <string name="volley_translation_error_app_key_blocked">API-ключ заблокирован</string>
+    <string name="volley_translation_error_exceeded_daily_limit">Превышено суточное ограничение на объем переведенного текста</string>
+    <string name="volley_translation_error_exceeded_max_text_size">Превышен максимально допустимый размер текста</string>
+    <string name="volley_translation_error_can_not_be_translated">Текст не может быть переведен</string>
+    <string name="volley_translation_error_translate_direction_invalide">Заданное направление перевода не поддерживается</string>
+    <string name="translate_button">Ok</string>
+    <string name="input_hint">Введите текст</string>
+    <string name="delete_item">Удалить</string>
+    <string name="favorite_title">Избранное</string>
+    <string name="history_title">История</string>
+
+
+</resources>
